@@ -4313,13 +4313,4 @@ while not game_over:
     pygame.display.update() 
 
 
-########           TO DO LIST         ####################
 
-#move forward 20 after kills (Big gold 20 and continue turn like normal)
-#move forward 1o after making it home (Big gold 10 and continue turn like normal)
-#kill when coming out of home and 2 pieces are already there
-#double rolls (bloqueo and roll again)
-
-#make individual spaces more clear
-
-#############################################################################################################
